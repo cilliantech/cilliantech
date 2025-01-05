@@ -1,5 +1,5 @@
-# [Cillian](https://www.cillian.website)  
-🌟 DevOps Engineer | Kubernetes Enthusiast | Open Source Contributor  
+# [Cillian](https://www.cillian.website)  🌟 
+DevOps Engineer | Kubernetes Enthusiast | Open Source Contributor  
 
 ---
 
@@ -9,6 +9,8 @@
 - 💼 **Collaborations**: Open to software development and open-source projects.  
 - 📫 **Contact**: [cillianops@gmail.com](mailto:cillianops@gmail.com)  
 - 🌐 **Website**: [www.cillian.website](https://www.cillian.website)  
+- 🧑‍💻 **Kubernetes Website**: [k8s.cillian.website](https://k8s.cillian.website)
+- 🎶 **Music Website**: [music.cillian.website](https://music.cillian.website) 
 
 ---
 
@@ -57,6 +59,9 @@
 - 💼 **合作方向**：欢迎在软件开发、开源项目等领域进行合作。  
 - 📫 **联系我**：[cillianops@gmail.com](mailto:cillianops@gmail.com)  
 - 🌐 **博客**：[www.cillian.website](https://www.cillian.website)  
+- 🧑‍💻 **Kubernetes 网站**： [k8s.cillian.website](https://k8s.cillian.website)
+- 🎶 **音乐网站**： [music.cillian.website](https://music.cillian.website)
+
 
 ---
 
