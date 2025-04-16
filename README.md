@@ -57,7 +57,7 @@ DevOps Engineer | Kubernetes Enthusiast | Open Source Contributor
 - 💻 专注于 **编程、音乐、绘画**，热爱探索新技术和分享知识。  
 - 🌱 **学习中**：人工智能、Kubernetes、Vue、Go，以及 DevOps 最佳实践。  
 - 💼 **合作方向**：欢迎在软件开发、开源项目等领域进行合作。  
-- 📫 **联系我**：[cillianops@gmail.com](mailto:cillianops@gmail.com)  
+- 📫 **联系我**：[cillianops@gmail.com](mailto:cilliantech@gmail.com)  
 - 🌐 **博客**：[www.cillian.website](https://www.cillian.website)  
 - ☸️ **Kubernetes 网站**： [k8s.cillian.website](https://k8s.cillian.website)
 - 🎶 **音乐网站**： [music.cillian.website](https://music.cillian.website)
