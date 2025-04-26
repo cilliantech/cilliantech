@@ -7,7 +7,7 @@ DevOps Engineer | Kubernetes Enthusiast | Open Source Contributor
 
 - 🌱 **Learning**: AI, Kubernetes, Vue, Go, and DevOps best practices.  
 - 💼 **Collaborations**: Open to software development and open-source projects.  
-- 📫 **Contact**: [cillianops@gmail.com](mailto:cilliantech@gmail.com)  
+- 📫 **Contact**: [cilliantech@gmail.com](mailto:cilliantech@gmail.com)  
 - 🌐 **Website**: [www.cillian.website](https://www.cillian.website)  
 - ☸️ **Kubernetes Website**: [k8s.cillian.website](https://k8s.cillian.website)
 - 🎶 **Music Website**: [music.cillian.website](https://music.cillian.website) 
@@ -57,7 +57,7 @@ DevOps Engineer | Kubernetes Enthusiast | Open Source Contributor
 - 💻 专注于 **编程、音乐、绘画**，热爱探索新技术和分享知识。  
 - 🌱 **学习中**：人工智能、Kubernetes、Vue、Go，以及 DevOps 最佳实践。  
 - 💼 **合作方向**：欢迎在软件开发、开源项目等领域进行合作。  
-- 📫 **联系我**：[cillianops@gmail.com](mailto:cilliantech@gmail.com)  
+- 📫 **联系我**：[cilliantech@gmail.com](mailto:cilliantech@gmail.com)  
 - 🌐 **博客**：[www.cillian.website](https://www.cillian.website)  
 - ☸️ **Kubernetes 网站**： [k8s.cillian.website](https://k8s.cillian.website)
 - 🎶 **音乐网站**： [music.cillian.website](https://music.cillian.website)
@@ -69,7 +69,7 @@ DevOps Engineer | Kubernetes Enthusiast | Open Source Contributor
 
 | 项目名称 | 描述 |  
 | -------- | ---- |  
-| [**cilikube**](https://github.com/cillianops/cilikube) | Kubernetes 资源管理平台，基于 Vue.js 和 Go 开发,适合学习和企业应用。 |  
+| [**cilikube**](https://github.com/ciliverse/cilikube) | Kubernetes 资源管理平台，基于 Vue.js 和 Go 开发,适合学习和企业应用。 |  
 ---
 
 ## 👥 开源贡献  
