@@ -3,7 +3,7 @@ DevOps Engineer | Kubernetes Enthusiast | Open Source Contributor
 
 ---
 
-👋 Hi, I’m **@cillianops**, passionate about **coding, music, painting**, and creating impactful projects.  
+👋 Hi, I’m **cillian**, passionate about **coding, music, painting**, and creating impactful projects.  
 
 - 🌱 **Learning**: AI, Kubernetes, Vue, Go, and DevOps best practices.  
 - 💼 **Collaborations**: Open to software development and open-source projects.  
