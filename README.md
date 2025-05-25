@@ -41,7 +41,7 @@
 - [Zabbix 认证用户 6.0 | Zabbix Certified User 6.0](https://www.zabbix.com/certificate/?firstname=Xuerui&lastname=Zhang&certificate=CU-2306-014)
 - AWS 认证 DevOps 工程师 – 专业级 | AWS Certified DevOps Engineer – Professional
 - Kubernetes: CKA、CKAD、KCNA、安全专家 | Kubernetes: CKA, CKAD, KCNA, Security Specialist
-- Node.js 高级应用开发者 | Node.js Master Application Developer
+- Node.js 应用开发者 | Node.js  Application Developer
 
 <p align="center">
   <img src="https://images.credly.com/size/110x110/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" alt="AWS Certified DevOps Engineer – Professional Badge" width="90" height="90" style="margin: 5px;" />
@@ -67,6 +67,9 @@
 ---
 
 ### 📈 统计信息 | Statistics  
+<!-- <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cilliantech&theme=radical&hide_border=true&area=true" alt="GitHub Activity Timeline" />
+</p> -->
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=cilliantech&style=flat-square&color=blue)  
