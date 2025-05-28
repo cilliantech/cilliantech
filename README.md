@@ -37,7 +37,7 @@
 ---
 
 ### 🎓 证书 | Certifications  
-- [AWS/CNCF 认证 | AWS/CNCF Badges](https://www.credly.com/users/cillianops/badges)
+- [AWS/CNCF 认证 | AWS/CNCF Badges](https://www.credly.com/users/cilliantech/badges)
 - [Zabbix 认证用户 6.0 | Zabbix Certified User 6.0](https://www.zabbix.com/certificate/?firstname=Xuerui&lastname=Zhang&certificate=CU-2306-014)
 - AWS 认证 DevOps 工程师 – 专业级 | AWS Certified DevOps Engineer – Professional
 - Kubernetes: CKA、CKAD、KCNA、安全专家 | Kubernetes: CKA, CKAD, KCNA, Security Specialist
