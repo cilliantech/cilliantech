@@ -18,7 +18,7 @@
 - 💻 专注于编程、音乐、绘画，热衷于打造有影响力的项目 | Passionate about coding, music, and painting, dedicated to impactful projects
 - 🌱 正在学习 | Learning： AI, Kubernetes, Vue.js, Go, and DevOps best practices
 - 💼 欢迎参与软件开发与开源项目合作 | Open to software development and open-source collaborations
-- 📫 联系方式|Contact: [cilliantech@gmail.com](mailto:cilliantech@gmail.com) | 
+- 📫 联系方式|Contact: [cilliantech@gmail.com](mailto:cilliantech@gmail.com)
 - 🌐 个人主页| Website: [www.cillian.website](https://www.cillian.website)  
 - ☸️ Kubernetes 专页| Kubernetes Website: [k8s.cillian.website](https://k8s.cillian.website)
 - 🎶 音乐主页| Music Website: [music.cillian.website](https://music.cillian.website)
