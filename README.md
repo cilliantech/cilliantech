@@ -2,6 +2,12 @@
 **运维开发工程师 | Kubernetes 爱好者 | 开源贡献者**
 
 **DevOps Engineer | Kubernetes Enthusiast | Open Source Contributor**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DevOps-Engineer-4FC08D?style=flat-square&logo=devops&logoColor=white" alt="DevOps Engineer" />
+  <img src="https://img.shields.io/badge/Kubernetes-Enthusiast-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes Enthusiast" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-FF5722?style=flat-square&logo=open-source-initiative&logoColor=white" alt="Open Source Contributor" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&color=326CE5&center=true&vCenter=true&width=800&lines=DevOps+Engineer;Kubernetes+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </p>
@@ -10,29 +16,29 @@
 
 ### 👋 关于我 | About Me  
 - 💻 专注于编程、音乐、绘画，热衷于打造有影响力的项目 | Passionate about coding, music, and painting, dedicated to impactful projects
-- 🌱 正在学习：人工智能、Kubernetes、Vue.js、Go 和 DevOps 最佳实践 | Learning: AI, Kubernetes, Vue.js, Go, and DevOps best practices
+- 🌱 正在学习 | Learning： AI, Kubernetes, Vue.js, Go, and DevOps best practices
 - 💼 欢迎参与软件开发与开源项目合作 | Open to software development and open-source collaborations
-- 📫 联系方式: [cilliantech@gmail.com](mailto:cilliantech@gmail.com) | Contact: [cilliantech@gmail.com](mailto:cilliantech@gmail.com)
-- 🌐 个人主页: [www.cillian.website](https://www.cillian.website) | Website: [www.cillian.website](https://www.cillian.website)
-- ☸️ Kubernetes 专页: [k8s.cillian.website](https://k8s.cillian.website) | Kubernetes Website: [k8s.cillian.website](https://k8s.cillian.website)
-- 🎶 音乐主页: [music.cillian.website](https://music.cillian.website) | Music Website: [music.cillian.website](https://music.cillian.website)
+- 📫 联系方式|Contact: [cilliantech@gmail.com](mailto:cilliantech@gmail.com) | 
+- 🌐 个人主页| Website: [www.cillian.website](https://www.cillian.website)  
+- ☸️ Kubernetes 专页| Kubernetes Website: [k8s.cillian.website](https://k8s.cillian.website)
+- 🎶 音乐主页| Music Website: [music.cillian.website](https://music.cillian.website)
 
 ---
 
-### 🚀 精选项目 | Featured Projects  
+### 🚀 我的开源项目 | My Projects 
 
-| 项目名称 | Project Name | 描述 | Description | 技术栈 | Tech Stack |
+| 项目名称/Project Name |  | 描述/Description |  | 技术栈/Tech Stack |  |
 | -------- | ------------ | ---- | ----------- | ------ | ---------- |
-| [**cilikube**](https://github.com/ciliverse/cilikube) | [**cilikube**](https://github.com/ciliverse/cilikube) | Kubernetes 资源管理平台，适合学习和企业应用 | Kubernetes resource management platform for learning and enterprise use | Vue.js, Go | Vue.js, Go |
+| [**cilikube**](https://github.com/ciliverse/cilikube) | | Kubernetes 资源管理平台，适合学习和企业应用/Kubernetes resource management platform for learning and enterprise use |   | Vue.js, Go |  |
 
 ---
 
 ### 👥 开源贡献 | Open Source Contributions  
 
-| 项目名称 | Project Name | 描述 | Description | 技术栈 | Tech Stack |
+| 项目名称/Project Name |  | 描述/Description | 技术栈/Tech Stack |  |   | 
 | -------- | ------------ | ---- | ----------- | ------ | ---------- |
-| [**v3-admin-vite**](https://github.com/un-pany/v3-admin-vite) | [**v3-admin-vite**](https://github.com/un-pany/v3-admin-vite) | Vue 3 管理模板，支持 Vite 和 Element Plus | Vue 3 admin template with Vite and Element Plus | Vue 3, Vite, Element Plus | Vue 3, Vite, Element Plus |
-| Kubernetes 社区 | Kubernetes Community | 持续为 Kubernetes 及相关项目贡献代码 | Continuously contributing to Kubernetes and related projects | Kubernetes, Go | Kubernetes, Go |
+| [**v3-admin-vite**](https://github.com/un-pany/v3-admin-vite) |  | Vue 3 管理模板，支持 Vite 和 Element Plus / Vue 3 admin template with Vite and Element Plus | Vue 3, Vite, Element Plus |  |  |
+| Kubernetes 社区 /Kubernetes Community|  | 持续为 Kubernetes 及相关项目贡献代码 /Continuously contributing to Kubernetes and related projects| Kubernetes, Go  | |  
 
 ---
 
@@ -78,4 +84,6 @@
 
 ---
 
-💡 欢迎探索我的项目或联系我一起打造有趣的东西！ | Explore my projects or reach out to build something cool together!
+💡 欢迎探索我的项目或联系我一起打造有趣的东西！ 
+
+💡 Explore my projects or reach out to build something cool together!
