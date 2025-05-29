@@ -27,19 +27,18 @@
 
 ### 🚀 我的开源项目 | My Projects 
 
-| 项目名称/Project Name |  | 描述/Description |  | 技术栈/Tech Stack |  |
-| -------- | ------------ | ---- | ----------- | ------ | ---------- |
-| [**cilikube**](https://github.com/ciliverse/cilikube) | | Kubernetes 资源管理平台，适合学习和企业应用/Kubernetes resource management platform for learning and enterprise use |   | Vue.js, Go |  |
+| 项目名称/Project Name | 描述/Description | 技术栈/Tech Stack |
+| --------------------- | --------------- | ---------------- |
+| [**cilikube**](https://github.com/ciliverse/cilikube) | Kubernetes 资源管理平台，适合学习和企业应用 / Kubernetes resource management platform for learning and enterprise use | Vue.js, Go |
 
 ---
 
 ### 👥 开源贡献 | Open Source Contributions  
 
-| 项目名称/Project Name |  | 描述/Description | 技术栈/Tech Stack |  |   | 
-| -------- | ------------ | ---- | ----------- | ------ | ---------- |
-| [**v3-admin-vite**](https://github.com/un-pany/v3-admin-vite) |  | Vue 3 管理模板，支持 Vite 和 Element Plus / Vue 3 admin template with Vite and Element Plus | Vue 3, Vite, Element Plus |  |  |
-| Kubernetes 社区 /Kubernetes Community|  | 持续为 Kubernetes 及相关项目贡献代码 /Continuously contributing to Kubernetes and related projects| Kubernetes, Go  | |  
-
+| 项目名称/Project Name | 描述/Description | 技术栈/Tech Stack |
+| --------------------- | --------------- | ---------------- |
+| [**v3-admin-vite**](https://github.com/un-pany/v3-admin-vite) | Vue 3 管理模板，支持 Vite 和 Element Plus / Vue 3 admin template with Vite and Element Plus | Vue 3, Vite, Element Plus |
+| Kubernetes 社区 / Kubernetes Community | 持续为 Kubernetes 及相关项目贡献代码 / Continuously contributing to Kubernetes and related projects | Kubernetes, Go |
 ---
 
 ### 🎓 证书 | Certifications  
