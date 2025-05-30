@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/DevOps-Engineer-4FC08D?style=flat-square&logo=devops&logoColor=white" alt="DevOps Engineer" />
   <img src="https://img.shields.io/badge/Kubernetes-Enthusiast-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes Enthusiast" />
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-FF5722?style=flat-square&logo=open-source-initiative&logoColor=white" alt="Open Source Contributor" />
+  <img src="https://img.shields.io/badge/CILIKUBE_-Core%20Developer-%23FFD700?style=flat&logo=kubernetes&labelColor=black" alt="CILIKUBE_ Core Developer" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&color=326CE5&center=true&vCenter=true&width=800&lines=DevOps+Engineer;Kubernetes+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
@@ -15,10 +16,10 @@
 ---
 
 ### 👋 关于我 | About Me  
-- 💻 专注于编程、音乐、绘画，热衷于打造有影响力的项目 | Passionate about coding, music, and painting, dedicated to impactful projects
+- 💻 编程、音乐、绘画、睡觉都是我的最爱 | Programming, Music, Painting, Sleeping are my favorite 
 - 🌱 正在学习 | Learning： AI, Kubernetes, Vue.js, Go, and DevOps best practices
-- 💼 欢迎参与软件开发与开源项目合作 | Open to software development and open-source collaborations
-- 📫 联系方式|Contact: [cilliantech@gmail.com](mailto:cilliantech@gmail.com)
+- 💼 开放软件开发与开源项目合作 | Open to software development and open-source collaborations
+- 📫 联系方式|Contact: [cilliantech@gmail.com](mailto:cilliantech@gmail.com) | 
 - 🌐 个人主页| Website: [www.cillian.website](https://www.cillian.website)  
 - ☸️ Kubernetes 专页| Kubernetes Website: [k8s.cillian.website](https://k8s.cillian.website)
 - 🎶 音乐主页| Music Website: [music.cillian.website](https://music.cillian.website)
@@ -29,7 +30,7 @@
 
 | 项目名称/Project Name | 描述/Description | 技术栈/Tech Stack |
 | --------------------- | --------------- | ---------------- |
-| [**cilikube**](https://github.com/ciliverse/cilikube) | Kubernetes 资源管理平台，适合学习和企业应用 / Kubernetes resource management platform for learning and enterprise use | Vue.js, Go |
+| [**CILIKUBE**](https://github.com/ciliverse/cilikube) | Kubernetes 多集群资源管理平台，适合学习和企业应用 / Kubernetes resource management platform for learning and enterprise use | **Vue** / **Go** |
 
 ---
 
@@ -37,8 +38,8 @@
 
 | 项目名称/Project Name | 描述/Description | 技术栈/Tech Stack |
 | --------------------- | --------------- | ---------------- |
-| [**v3-admin-vite**](https://github.com/un-pany/v3-admin-vite) | Vue 3 管理模板，支持 Vite 和 Element Plus / Vue 3 admin template with Vite and Element Plus | Vue 3, Vite, Element Plus |
-| Kubernetes 社区 / Kubernetes Community | 持续为 Kubernetes 及相关项目贡献代码 / Continuously contributing to Kubernetes and related projects | Kubernetes, Go |
+| [**V3-Admin-Vite**](https://github.com/un-pany/v3-admin-vite) | Vue 3 管理模板，支持 Vite 和 Element Plus / Vue 3 admin template with Vite and Element Plus | Vue3 Vite Element Plus |
+| Kubernetes 社区 / Kubernetes Community | 持续为 Kubernetes 及相关项目贡献代码 / Continuously contributing to Kubernetes and related projects | Kubernetes Go |
 ---
 
 ### 🎓 证书 | Certifications  
@@ -65,8 +66,9 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=goldenrod" alt="AWS" />
+ 
 </p>
 
 ---
@@ -83,6 +85,6 @@
 
 ---
 
-💡 欢迎探索我的项目或联系我一起打造有趣的东西！ 
+💡 生活的意义，也许一时难以看清，但能和一群志同道合的人，全情投入的做一些喜欢和热爱的事，这本身就是最有意义的活法！ 
 
-💡 Explore my projects or reach out to build something cool together!
+💡 The meaning of life, perhaps it is difficult to see at a time, but to be fully involved in doing something you like and love with a group of like-minded people, this is the most meaningful way of life!
