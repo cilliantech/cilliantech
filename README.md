@@ -19,7 +19,7 @@
 - 💻 编程、音乐、绘画、睡觉都是我的最爱 | Programming, Music, Painting, Sleeping are my favorite 
 - 🌱 正在学习 | Learning： AI, Kubernetes, Vue.js, Go, and DevOps best practices
 - 💼 开放软件开发与开源项目合作 | Open to software development and open-source collaborations
-- 📫 联系方式|Contact: [cilliantech@gmail.com](mailto:cilliantech@gmail.com) | 
+- 📫 联系方式|Contact: [cilliantech@gmail.com](mailto:cilliantech@gmail.com)
 - 🌐 个人主页| Website: [www.cillian.website](https://www.cillian.website)  
 - ☸️ Kubernetes 专页| Kubernetes Website: [k8s.cillian.website](https://k8s.cillian.website)
 - 🎶 音乐主页| Music Website: [music.cillian.website](https://music.cillian.website)
