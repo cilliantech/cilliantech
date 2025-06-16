@@ -31,6 +31,7 @@
 | 项目名称/Project Name | 描述/Description | 技术栈/Tech Stack |
 | --------------------- | --------------- | ---------------- |
 | [**CILIKUBE**](https://github.com/ciliverse/cilikube) | Kubernetes 多集群资源管理平台，适合学习和企业应用 / Kubernetes resource management platform for learning and enterprise use | **Vue** / **Go** |
+| [**CILITERM**](https://github.com/ciliverse/ciliterm) | CILITERM is a modern cross-platform terminal emulator built with Electron and Vue3, featuring system monitoring, file browsing, network traffic visualization, and a 3D globe animation.| Electron / Vue3 | 
 
 ---
 
