@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,14&height=140&text=Cillian&fontSize=70&animation=fadeIn" alt="Cillian Wave Animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,14&height=140&text=Cillian&fontSize=70&fontColor=4169E1&fontAlign=50&fontAlignY=50&desc=&descAlign=50&descAlignY=50&animation=fadeIn" alt="Cillian Wave Animation" />
 
 **DevOps Engineer | Kubernetes Enthusiast | Open Source Contributor**
 
