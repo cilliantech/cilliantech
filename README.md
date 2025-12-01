@@ -1,12 +1,10 @@
-# Cillian 🌟  
-
-<div align="center">
+<div align="right">
   <a href="README_ZH.md">
-    <img src="https://img.shields.io/badge/中文-FF6B6B?style=for-the-badge&logo=readme&logoColor=white" alt="中文" />
+    <img src="https://img.shields.io/badge/🌏_中文-4A90E2?style=flat-square&labelColor=2C3E50&color=4A90E2" alt="中文版本" />
   </a>
 </div>
 
----
+# Cillian 
 
 <div align="center">
 

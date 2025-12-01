@@ -1,12 +1,10 @@
-# 希里安 🌟  
-
-<div align="center">
+<div align="right">
   <a href="README.md">
-    <img src="https://img.shields.io/badge/English-4FC08D?style=for-the-badge&logo=readme&logoColor=white" alt="English" />
+    <img src="https://img.shields.io/badge/🌍_English-4FC08D?style=flat-square&labelColor=2C3E50&color=4FC08D" alt="English Version" />
   </a>
 </div>
 
----
+# 希里安 🌟  
 
 <div align="center">
 
