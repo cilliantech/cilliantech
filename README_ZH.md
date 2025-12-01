@@ -4,9 +4,9 @@
   </a>
 </div>
 
-# 希里安 🌟  
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=1,1,9&height=140&text=希里安&fontSize=50&fontColor=fff&animation=scaleIn" alt="希里安 Venom Animation" />
 
 **运维开发工程师 | Kubernetes 爱好者 | 开源贡献者**
 
