@@ -28,7 +28,7 @@
 ### 👋 About Me  
 - 💻 Programming, Music, Painting, Sleeping are my favorites
 - 🌱 Learning: AI, Kubernetes, Vue.js, Go, and DevOps best practices
-- 💼 Open to software development and open-source collaborations
+- 💼 Open to software development and open-source collaborations, [GitHub](https://github.com/cillianxtech)
 - 📫 Contact: [cilliantech@gmail.com](mailto:cilliantech@gmail.com)
 - 🌐 Website: [www.cillian.website](https://www.cillian.website)  
 - ☸️ Kubernetes Website: [k8s.cillian.website](https://k8s.cillian.website)
@@ -40,8 +40,8 @@
 
 | Project Name | Description | Tech Stack |
 | ------------ | ----------- | ---------- |
-| [**CILIKUBE**](https://github.com/ciliverse/cilikube) | Kubernetes resource management platform for learning and enterprise use | **Vue** / **Go** |
-| [**CILITERM**](https://github.com/ciliverse/ciliterm) | A modern cross-platform terminal emulator built with Electron and Vue3, featuring system monitoring, file browsing, network traffic visualization, and a 3D globe animation | Electron / Vue3 | 
+| [**CILIKUBE**](https://github.com/cillianxtech/cilikube) | Kubernetes resource management platform for learning and enterprise use | **Vue** / **Go** |
+| [**CILITERM**](https://github.com/cillianxtech/ciliterm) | A modern cross-platform terminal emulator built with Electron and Vue3, featuring system monitoring, file browsing, network traffic visualization, and a 3D globe animation | Electron / Vue3 | 
 
 ---
 

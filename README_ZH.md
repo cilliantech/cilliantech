@@ -28,7 +28,7 @@
 ### 👋 关于我  
 - 💻 编程、音乐、绘画、睡觉都是我的最爱
 - 🌱 正在学习：AI, Kubernetes, Vue.js, Go, and DevOps best practices
-- 💼 开放软件开发与开源项目合作
+- 💼 开放软件开发与开源项目合作，[github.com/cillianxtech](https://github.com/cillianxtech)
 - 📫 联系方式: [cilliantech@gmail.com](mailto:cilliantech@gmail.com)
 - 🌐 个人主页: [www.cillian.website](https://www.cillian.website)  
 - ☸️ Kubernetes 专页: [k8s.cillian.website](https://k8s.cillian.website)
@@ -40,8 +40,8 @@
 
 | 项目名称 | 描述 | 技术栈 |
 | -------- | ---- | ------ |
-| [**CILIKUBE**](https://github.com/ciliverse/cilikube) | Kubernetes 多集群资源管理平台，适合学习和企业应用 | **Vue** / **Go** |
-| [**CILITERM**](https://github.com/ciliverse/ciliterm) | 基于 Electron 和 Vue3 构建的现代跨平台终端模拟器，具有系统监控、文件浏览、网络流量可视化和 3D 地球动画功能 | Electron / Vue3 | 
+| [**CILIKUBE**](https://github.com/cillianxtech/cilikube) | Kubernetes 多集群资源管理平台，适合学习和企业应用 | **Vue** / **Go** |
+| [**CILITERM**](https://github.com/cillianxtech/ciliterm) | 基于 Electron 和 Vue3 构建的现代跨平台终端模拟器，具有系统监控、文件浏览、网络流量可视化和 3D 地球动画功能 | Electron / Vue3 | 
 
 ---
 
