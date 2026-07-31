@@ -6,33 +6,35 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,1,9&height=140&text=希里安&fontSize=50&fontColor=4169E1&fontAlign=50&fontAlignY=50&desc=&descAlign=50&descAlignY=50&animation=fadeIn" alt="希里安 Wave Animation" />
+<img src="./assets/header-zh.svg" alt="希里安 · AI Infra" width="100%" />
 
-**运维开发工程师 | Kubernetes 爱好者 | 开源贡献者**
+**AI Infra SRE | 机器人行业 | CILIKUBE 核心开发者**
 
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DevOps-Engineer-4FC08D?style=flat-square&logo=devops&logoColor=white" alt="DevOps Engineer" />
-  <img src="https://img.shields.io/badge/Kubernetes-Enthusiast-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes Enthusiast" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-FF5722?style=flat-square&logo=open-source-initiative&logoColor=white" alt="Open Source Contributor" />
-  <img src="https://img.shields.io/badge/CILIKUBE_-Core%20Developer-%23FFD700?style=flat&logo=kubernetes&labelColor=black" alt="CILIKUBE_ Core Developer" />
+  <img src="https://img.shields.io/badge/AI%20Infra-SRE-4FC08D?style=flat-square&logo=kubernetes&logoColor=white" alt="AI Infra SRE" />
+  <img src="https://img.shields.io/badge/Robotics-Industry-0EA5E9?style=flat-square&logo=robot-framework&logoColor=white" alt="Robotics" />
+  <img src="https://img.shields.io/badge/Cloud%20Native-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Cloud Native" />
+  <img src="https://img.shields.io/badge/CILIKUBE-Core%20Developer-%23FFD700?style=flat&logo=kubernetes&labelColor=black" alt="CILIKUBE Core Developer" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&color=326CE5&center=true&vCenter=true&width=800&lines=运维开发工程师;Kubernetes+爱好者;开源贡献者" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=500&color=22D3EE&center=true&vCenter=true&width=900&lines=AI+Infra+SRE+%2F+%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A1%8C%E4%B8%9A;CILIKUBE+%E6%A0%B8%E5%BF%83%E5%BC%80%E5%8F%91%E8%80%85;%E4%BA%91%E5%8E%9F%E7%94%9F+%C2%B7+%E5%BC%80%E6%BA%90+%C2%B7+DevOps" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👋 关于我  
-- 💻 编程、音乐、绘画、睡觉都是我的最爱
-- 🌱 正在学习：AI, Kubernetes, Vue.js, Go, and DevOps best practices
-- 💼 开放软件开发与开源项目合作，[github.com/cillianxtech](https://github.com/cillianxtech)
-- 📫 联系方式: [cilliantech@gmail.com](mailto:cilliantech@gmail.com)
-- 🌐 个人主页: [www.cillian.website](https://www.cillian.website)  
-- ☸️ Kubernetes 专页: [k8s.cillian.website](https://k8s.cillian.website)
-- 🎶 音乐主页: [music.cillian.website](https://music.cillian.website)
+
+面向 **AI Infra / 机器人** 场景的运维与平台工程，日常围绕集群、可观测与自动化交付；业余维护 [CILIKUBE](https://cilikube.cillian.website) 等开源项目。
+
+- 🌱 **近期关注**：机器人、AI Infra、云原生、Go / Vue / React、DevOps 最佳实践
+- 💼 **合作**：欢迎软件开发与开源协作 → [github.com/ciliverse](https://github.com/ciliverse)
+- 🌐 **主页**：[www.cillian.website](https://www.cillian.website)
+- ☸️ **CILIKUBE**：[cilikube.cillian.website](https://cilikube.cillian.website)
+- 📫 **邮箱**：[cilliantech@gmail.com](mailto:cilliantech@gmail.com)
+- 🎯 **兴趣**：编程、音乐、绘画、睡觉
 
 ---
 
@@ -40,8 +42,8 @@
 
 | 项目名称 | 描述 | 技术栈 |
 | -------- | ---- | ------ |
-| [**CILIKUBE**](https://github.com/cillianxtech/cilikube) | Kubernetes 多集群资源管理平台，适合学习和企业应用 | **Vue** / **Go** |
-| [**CILITERM**](https://github.com/cillianxtech/ciliterm) | 基于 Electron 和 Vue3 构建的现代跨平台终端模拟器，具有系统监控、文件浏览、网络流量可视化和 3D 地球动画功能 | Electron / Vue3 | 
+| [**CILIKUBE**](https://github.com/ciliverse/cilikube) | Kubernetes 多集群资源管理平台，适合学习与企业场景 · [官网](https://cilikube.cillian.website) | **Vue** / **React** / **Go** |
+| [**CILITERM**](https://github.com/ciliverse/ciliterm) | 基于 Electron 与 Vue3 的跨平台终端模拟器，含系统监控、文件浏览、网络流量可视化与 3D 地球动画 | Electron / Vue3 |
 
 ---
 
@@ -49,8 +51,8 @@
 
 | 项目名称 | 描述 | 技术栈 |
 | -------- | ---- | ------ |
-| [**V3-Admin-Vite**](https://github.com/un-pany/v3-admin-vite) | Vue 3 管理模板，支持 Vite 和 Element Plus | Vue3 Vite Element Plus |
-| Kubernetes 社区 | 持续为 Kubernetes 及相关项目贡献代码 | Kubernetes Go |
+| [**CiliVerse**](https://github.com/ciliverse) | 维护 CILIKUBE / CILITERM 等云原生与开发者工具生态 | Vue / Go / Electron |
+| [**V3-Admin-Vite**](https://github.com/un-pany/v3-admin-vite) | Vue 3 管理后台模板（Vite + Element Plus）贡献与实践 | Vue3 / Vite / Element Plus |
 
 ---
 
@@ -77,8 +79,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Robotics-0EA5E9?style=flat-square&logo=robot-framework&logoColor=white" alt="Robotics" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=goldenrod" alt="AWS" />
 </p>
@@ -94,6 +98,6 @@
 
 <div align="center">
 
-💡 **生活的意义，也许一时难以看清，但能和一群志同道合的人，全情投入的做一些喜欢和热爱的事，这本身就是最有意义的活法！**
+💡 **生活的意义，也许一时难以看清，但能和一群志同道合的人，全情投入地做一些喜欢和热爱的事，这本身就是最有意义的活法！**
 
 </div>

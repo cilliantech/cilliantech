@@ -6,33 +6,35 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,14&height=140&text=Cillian&fontSize=70&fontColor=4169E1&fontAlign=50&fontAlignY=50&desc=&descAlign=50&descAlignY=50&animation=fadeIn" alt="Cillian Wave Animation" />
+<img src="./assets/header-en.svg" alt="Cillian · AI Infra" width="100%" />
 
-**DevOps Engineer | Kubernetes Enthusiast | Open Source Contributor**
+**AI Infra SRE | Robotics | CILIKUBE Core Developer**
 
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DevOps-Engineer-4FC08D?style=flat-square&logo=devops&logoColor=white" alt="DevOps Engineer" />
-  <img src="https://img.shields.io/badge/Kubernetes-Enthusiast-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes Enthusiast" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-FF5722?style=flat-square&logo=open-source-initiative&logoColor=white" alt="Open Source Contributor" />
-  <img src="https://img.shields.io/badge/CILIKUBE_-Core%20Developer-%23FFD700?style=flat&logo=kubernetes&labelColor=black" alt="CILIKUBE_ Core Developer" />
+  <img src="https://img.shields.io/badge/AI%20Infra-SRE-4FC08D?style=flat-square&logo=kubernetes&logoColor=white" alt="AI Infra SRE" />
+  <img src="https://img.shields.io/badge/Robotics-Industry-0EA5E9?style=flat-square&logo=robot-framework&logoColor=white" alt="Robotics" />
+  <img src="https://img.shields.io/badge/Cloud%20Native-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Cloud Native" />
+  <img src="https://img.shields.io/badge/CILIKUBE-Core%20Developer-%23FFD700?style=flat&logo=kubernetes&labelColor=black" alt="CILIKUBE Core Developer" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&color=326CE5&center=true&vCenter=true&width=800&lines=DevOps+Engineer;Kubernetes+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=500&color=22D3EE&center=true&vCenter=true&width=900&lines=AI+Infra+SRE+%2F+Robotics;CILIKUBE+Core+Developer;Cloud+Native+%C2%B7+Open+Source+%C2%B7+DevOps" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👋 About Me  
-- 💻 Programming, Music, Painting, Sleeping are my favorites
-- 🌱 Learning: AI, Kubernetes, Vue.js, Go, and DevOps best practices
-- 💼 Open to software development and open-source collaborations, [GitHub](https://github.com/cillianxtech)
-- 📫 Contact: [cilliantech@gmail.com](mailto:cilliantech@gmail.com)
-- 🌐 Website: [www.cillian.website](https://www.cillian.website)  
-- ☸️ Kubernetes Website: [k8s.cillian.website](https://k8s.cillian.website)
-- 🎶 Music Website: [music.cillian.website](https://music.cillian.website)
+
+SRE / platform engineering for **AI Infra & robotics** — clusters, observability, and automated delivery by day; building [CILIKUBE](https://cilikube.cillian.website) and other open source by night.
+
+- 🌱 **Focus**: Robotics, AI Infra, cloud-native, Go / Vue / React, DevOps
+- 💼 **Collab**: Open to software & open-source work → [github.com/ciliverse](https://github.com/ciliverse)
+- 🌐 **Site**: [www.cillian.website](https://www.cillian.website)
+- ☸️ **CILIKUBE**: [cilikube.cillian.website](https://cilikube.cillian.website)
+- 📫 **Email**: [cilliantech@gmail.com](mailto:cilliantech@gmail.com)
+- 🎯 **Interests**: Programming, music, painting, sleeping
 
 ---
 
@@ -40,8 +42,8 @@
 
 | Project Name | Description | Tech Stack |
 | ------------ | ----------- | ---------- |
-| [**CILIKUBE**](https://github.com/cillianxtech/cilikube) | Kubernetes resource management platform for learning and enterprise use | **Vue** / **Go** |
-| [**CILITERM**](https://github.com/cillianxtech/ciliterm) | A modern cross-platform terminal emulator built with Electron and Vue3, featuring system monitoring, file browsing, network traffic visualization, and a 3D globe animation | Electron / Vue3 | 
+| [**CILIKUBE**](https://github.com/ciliverse/cilikube) | Kubernetes multi-cluster resource management platform · [Website](https://cilikube.cillian.website) | **Vue** / **React** / **Go** |
+| [**CILITERM**](https://github.com/ciliverse/ciliterm) | Cross-platform terminal emulator with system monitoring, file browsing, network traffic visualization, and a 3D globe | Electron / Vue3 |
 
 ---
 
@@ -49,8 +51,8 @@
 
 | Project Name | Description | Tech Stack |
 | ------------ | ----------- | ---------- |
-| [**V3-Admin-Vite**](https://github.com/un-pany/v3-admin-vite) | Vue 3 admin template with Vite and Element Plus | Vue3 Vite Element Plus |
-| Kubernetes Community | Continuously contributing to Kubernetes and related projects | Kubernetes Go |
+| [**CiliVerse**](https://github.com/ciliverse) | Maintaining the CILIKUBE / CILITERM cloud-native and developer tooling ecosystem | Vue / Go / Electron |
+| [**V3-Admin-Vite**](https://github.com/un-pany/v3-admin-vite) | Contributions and practice around the Vue 3 admin template (Vite + Element Plus) | Vue3 / Vite / Element Plus |
 
 ---
 
@@ -77,8 +79,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Robotics-0EA5E9?style=flat-square&logo=robot-framework&logoColor=white" alt="Robotics" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=goldenrod" alt="AWS" />
 </p>
@@ -94,6 +98,6 @@
 
 <div align="center">
 
-💡 **The meaning of life, perhaps it is difficult to see at a time, but to be fully involved in doing something you like and love with a group of like-minded people, this is the most meaningful way of life!**
+💡 **The meaning of life can be hard to see at times — but pouring yourself into something you love with like-minded people is already one of the most meaningful ways to live.**
 
 </div>
